@@ -15,3 +15,7 @@ The grouping criteria is defined in a transposed way compared to the memory grou
 
 <img src="https://raw.githubusercontent.com/tkaszuba/pentaho/master/pentaho-memory-summary/samples/Summary%20details.png" width="50%" height="50%">
 
+This **example** is found in the Samples folder
+
+## Transposing
+Just like the SAS proc summary procedure the memory summary plugin also is very useful in transposing data, especially if the data is sparse. For this purpose the flag _Add null values to concatenation aggregation_ is provided. If this flag is toggled and _Concatenate strings separated by ,_ is chosen as the aggregation function, then an empty string will be inserted instead of the field being skipped, as is the case with the memory group by step. This is a very handy feature in reporting and generating CSV files from sparse data. 
