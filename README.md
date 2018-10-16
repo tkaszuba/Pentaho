@@ -8,4 +8,4 @@ Memory Summary plugin v.1.0.0 downloadable from [here](https://github.com/tkaszu
 ## mongo db plugin 
 Fix for the [mongo db input](https://wiki.pentaho.com/display/EAI/MongoDB+Input) and [mongodb output](https://wiki.pentaho.com/display/EAI/MongoDB+Output) steps allowing them to use a mongo driver > 3.6
 
-Mongo db plugin patch for pdi version 7.1.0.0-12 downloadable from [here](https://github.com/tkaszuba/ pentaho/mongodb-plugin-patch-7.1.0.0-12.zip)
+Mongo db plugin patch for pdi version 7.1.0.0-12 downloadable from [here](https://github.com/tkaszuba/pentaho/mongodb-plugin-patch-7.1.0.0-12.zip)
