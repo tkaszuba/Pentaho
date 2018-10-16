@@ -4,7 +4,7 @@
 
     <groupId>com.kaszub.pdi</groupId>
     <artifactId>memory-summary</artifactId>
-    <version>0.5.0</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <organization>
