@@ -20,3 +20,8 @@ The plugin is managed by Apache Karaf and hence the plugin has to be swapped aft
 ### Lib
 lib/mongo-java-driver-3.6.1.jar
 * The mongo driver should also be included in the lib folder so that it is available in custom java steps
+
+### Cache
+Remember to remove the Karaf cache after installing the patch else it will not work
+
+
